@@ -64,10 +64,10 @@ module.exports = {
     og: {
       title: "Temitope Babalola Portfolio",
       type: "website",
-      url: "https://temibabalola.com",
-      image: "https://temibabalola.com/imgs/chigo.jpg",
+      url: "https://portifolio-psi-sable.vercel.app",
+      image: "https://portifolio-psi-sable.vercel.app/imgs/chigo.jpg",
     },
-    image: "https://temibabalola.com/imgs/chigo.jpg",
+    image: "https://portifolio-psi-sable.vercel.app/imgs/chigo.jpg",
     twitter: "gozie_rep",
   },
 

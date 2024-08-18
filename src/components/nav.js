@@ -176,10 +176,10 @@ const Nav = ({ isHome }) => {
 
   const ResumeLink = (
     <a
-      className="resume-button"
-      href="/chigozie-ugwuede-resume.pdf"
-      target="_blank"
-      rel="noopener noreferrer"
+      className='resume-button'
+      href='https://drive.google.com/file/d/1YBWPbhU67F8ELZaoUWnB_fjEIriIo496/view?usp=drive_link'
+      target='_blank'
+      rel='noopener noreferrer'
     >
       Resume
     </a>
